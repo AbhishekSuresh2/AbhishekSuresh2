@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Whatsapp Bots**
 
-- 🌱 I’m currently learning **8th Standard**
+- 🌱 I’m currently learning **____**
 
 - 💬 Ask me about **Whatsapp Bots**
 
