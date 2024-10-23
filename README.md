@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksuresh2&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksuresh2" /> </p>
 
-- 🔭 I’M Currently Working On **Whatsapp Bots**
+- 🔭 I’M Currently Working On **nothing**
 
-- 🌱 I’M Currently Learning **____**
+- 🌱 I’M Currently Learning **Nodejs**
 
-- 💬 Ask Me About **Whatsapp Bots**
+- 💬 Ask Me About **Nothing**
 
 - 📫 How To Reach Me **AbhishekSuresh2030@gmail.com**
 
