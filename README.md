@@ -18,6 +18,7 @@
         <li>🌱 Learning: <b>Advanced Node.js Patterns & System Design</b></li>
         <li>⚡ Fun Fact: <b>I debug faster than I compile.</b></li>
         <li>💬 Ask me about: <b>JS & Tech Stacks</b></li>
+        <li>🌐 Portfolio: <a href="https://abhishek-suresh2-portfolio.vercel.app/" target="_blank"><b>abhishek-suresh2-portfolio.vercel.app</b></a></li>
         <li>📫 Contact: <a href="mailto:AbhishekSuresh2030@gmail.com"><b>AbhishekSuresh2030@gmail.com</b></a></li>
       </ul>
     </td>
