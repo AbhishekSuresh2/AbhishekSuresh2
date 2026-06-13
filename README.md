@@ -62,5 +62,17 @@
 
 <div align="center">
   <br />
+
+### ☕ Support My Work
+<div align="center">
+  <a href="https://buymychai.vercel.app/abhisheksuresh" target="_blank">
+    <img src="https://i.ibb.co/PG3tjgp3/chai.png" width="70" alt="Buy My Chai" />
+  </a>
+  <br/>
+  <a href="https://buymychai.vercel.app/abhisheksuresh" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Chai-25D366?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Chai" />
+  </a>
+  <p>If you like my work, consider supporting me with a chai! 🍵</p>
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer" />
 </div>
