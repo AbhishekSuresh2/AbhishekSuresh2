@@ -59,20 +59,18 @@
 <br/>
 
 ---
-
 <div align="center">
-  <br />
 
 ### ☕ Support My Work
-<div align="center">
-  <a href="https://buymychai.vercel.app/abhisheksuresh" target="_blank">
-    <img src="https://i.ibb.co/PG3tjgp3/chai.png" width="70" alt="Buy My Chai" />
-  </a>
-  <br/>
-  <a href="https://buymychai.vercel.app/abhisheksuresh" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Chai-25D366?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Chai" />
-  </a>
-  <p>If you like my work, consider supporting me with a chai! 🍵</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=B86D52&center=true&vCenter=true&width=400&height=40&lines=Enjoyed+my+work%3F+%E2%98%95;Buy+Me+a+Chai+%E2%98%95" alt="Buy Me a Chai" />
+
+<br/>
+
+<a href="https://buymychai.vercel.app/abhisheksuresh" target="_blank">
+  <img src="https://img.shields.io/badge/BUY_ME_A_CHAI-000000?style=for-the-badge&logo=kofi&logoColor=B86D52" />
+</a>
+
 </div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer" />
 </div>
